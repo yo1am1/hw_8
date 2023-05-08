@@ -1,0 +1,11 @@
+Path: /student/, Method: GET, Execution time: 0.0509495735168457
+Path: /student/, Method: POST, Execution time: 0.03204989433288574
+Path: /student/, Method: GET, Execution time: 0.006604909896850586
+Path: /student/, Method: POST, Execution time: 0.0351564884185791
+Path: /student/, Method: GET, Execution time: 0.022350549697875977
+Path: /student/, Method: GET, Execution time: 0.06345939636230469
+Path: /student/, Method: POST, Execution time: 0.029761314392089844
+Path: /student/, Method: GET, Execution time: 0.008058309555053711
+Path: /student/, Method: GET, Execution time: 0.040154218673706055
+Path: /student/, Method: POST, Execution time: 0.02918696403503418
+Path: /student/, Method: GET, Execution time: 0.00502324104309082
